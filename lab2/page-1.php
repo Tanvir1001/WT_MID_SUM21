@@ -20,7 +20,7 @@
                 <td>Enter Address</td>
                 <td><textarea name="textarea" cols="" rows=""></textarea></td>
             </tr>
-            <tr rowspan="4">
+            <tr>
                 <td>Select Game</td>
                 <td><input type="checkbox">Hockey <br>
                 <input type="checkbox">Football <br> 
