@@ -22,10 +22,10 @@
             </tr>
             <tr>
                 <td>DEPT</td>
-                <td><input type="radio">CS 
-                <input type="radio">CSE
-                <input type="radio">CIS
-                <input type="radio">CSSE</td>
+                <td><input type="radio" name="dept">CS 
+                <input type="radio" name="dept">CSE
+                <input type="radio" name="dept">CIS
+                <input type="radio" name="dept">CSSE</td>
                 <td></td>
             </tr>
             <tr>

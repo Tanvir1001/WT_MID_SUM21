@@ -31,7 +31,7 @@
             </tr>
             <tr>
                 <td>Gender</td>
-                <td><input type="radio">Male <input type="radio">Female</td>
+                <td><input type="radio" name="gender">Male <input type="radio" name="gender">Female</td>
             </tr>
             <tr>
                 <td>Select ur age</td>
