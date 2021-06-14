@@ -8,19 +8,12 @@
     
     $name = "raju";
 
-    if($name=='raju'){
-        echo "Hello <br>";
-    }
-    elseif ($name == 'mina') {
-        echo "Hello <br>";
-    }
-    elseif ($name == 'mithu') {
-
+    if($name=='raju' || $name=='mina' || $name=='mithu'){
         echo "Hello <br>";
     }
     else
     {
-        echo "you are not recognized" ;
+        echo "you are not recognized";
     }
 ?>
 </body>

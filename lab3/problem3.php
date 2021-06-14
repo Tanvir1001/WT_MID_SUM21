@@ -6,7 +6,7 @@
 <body>
         <?php
         $length=20;
-        $width=15;
+        $width=20;
         $perimeter=2*($length + $width);
         $area=($length*$width);
         
@@ -15,9 +15,9 @@
         echo "Perimeter of the rectangle is $perimeter";
         echo "<br>";
 
-        if($area == $perimeter)
+        if( $length == $width)
             {
-                echo "the shape is a square";
+                echo "The shape is a square";
             }
         ?>
 </body>
